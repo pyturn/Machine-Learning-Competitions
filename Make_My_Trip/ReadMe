@@ -9,10 +9,11 @@ Files Provided in Dataset -
 Following are the files that will be provided in the dataset -
 
   Train.csv  - This file contains all the above mentioned columns. You are expected to train your models on this file.
-  Test.csv  - This file contains all the above mentioned columns except “P” column. You have to predict this column for each records given in this file.
+  Test.csv  - This file contains all the above mentioned columns except “P” column. You have to predict this column for
+  each records given in this file. 
   Sample_submission.csv  - This file consists of sample submissions. Your submission should be in exact same format.
   
   
  I compared different machine learning models and also done the model stacking. My Leaderboard Rank was 127. My overall score
  was 113.4058/130 and my machine learning problem score was 88.4050
- Here is the link to leaderboard - https://www.hackerearth.com/challenge/hiring/makemytrip-data-science-hiring-challenge/leaderboard/
+Link to leaderboard - https://www.hackerearth.com/challenge/hiring/makemytrip-data-science-hiring-challenge/leaderboard/
