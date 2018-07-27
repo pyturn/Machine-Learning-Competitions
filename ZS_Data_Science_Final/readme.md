@@ -29,7 +29,8 @@
 	There is a heavy correlation between expense price and sales price data. So I used DECISION TREE WITH ARIMA MODEL for predictions 	  because decision tree fits the data well and ARIMA is used to predict where we do not have expense price.
 	
 	LeaderBoard Score : 1.83009
-	LeaderBoard Rank : 89
+	LeaderBoard Rank : 21
+	Leaderboard Link : https://www.hackerearth.com/challenge/competitive/zs-data-science-challenge-2018/
 	Competition Link : https://www.hackerearth.com/challenge/competitive/zs-data-science-challenge-2018/problems/
 
 
